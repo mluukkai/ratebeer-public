@@ -23,73 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="beer.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/beer.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="29" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="brewery.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/models/brewery.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="26" selection-start="135" selection-end="135" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="brewery_spec.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/models/brewery_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="20" selection-start="174" selection-end="174" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="breweries_page_spec.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/features/breweries_page_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="3" selection-start="247" selection-end="247" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spec_helper.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spec/spec_helper.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="36" selection-end="36" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Gemfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="67" selection-start="1073" selection-end="1073" vertical-scroll-proportion="0.0" vertical-offset="378" max-vertical-offset="1035">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name=".travis.yml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="11" selection-start="243" selection-end="243" vertical-scroll-proportion="0.3321976" vertical-offset="0" max-vertical-offset="587">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="30" selection-start="471" selection-end="471" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="450">
+            <state line="15" column="0" selection-start="480" selection-end="480" vertical-scroll-proportion="0.37688443" vertical-offset="0" max-vertical-offset="597">
               <folding />
             </state>
           </provider>
@@ -571,7 +508,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="11" selection-start="243" selection-end="243" vertical-scroll-proportion="0.3321976" vertical-offset="0" max-vertical-offset="587">
+        <state line="15" column="0" selection-start="480" selection-end="480" vertical-scroll-proportion="0.37688443" vertical-offset="0" max-vertical-offset="597">
           <folding />
         </state>
       </provider>

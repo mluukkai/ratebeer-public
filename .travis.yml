@@ -1,15 +1,15 @@
 language: ruby
-
 rvm:
-  - 2.0.0
-
+- 2.0.0
 script:
-  - bundle exec rake db:migrate --trace
-  - RAILS_ENV=test bundle exec rake db:migrate --trace
-  - bundle exec rake db:test:prepare
-  - bundle exec rspec -fd spec/
-
+- bundle exec rake db:migrate --trace
+- RAILS_ENV=test bundle exec rake db:migrate --trace
+- bundle exec rake db:test:prepare
+- bundle exec rspec -fd spec/
 deploy:
   provider: heroku
-  api_key: e19026459846b805e845af949f7caed846ab68fe
+  api_key:
+    secure: k0/wEVIEKkZd9/1Uvuc0FGKGCzhBrBd/QRq21zaJYIq1X0+PxdIk2FPEsQUNgQMgUkMThjvYsjiHOcbyoVFaWotTmyWEtDhIFQ5eSG2aY08iLRNwH1hzuA4x/cqk6XEWB+I2R1JtFwLWb5s3OOPgG/jHg2wdHT3qvqRHtQ9iC+c=
   app: stark-oasis-9187
+  on:
+    repo: mluukkai/ratebeer-public
