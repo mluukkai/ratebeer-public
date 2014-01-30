@@ -13,3 +13,4 @@ deploy:
   app: stark-oasis-9187
   on:
     repo: mluukkai/ratebeer-public
+  run: "rake db:migrate"
