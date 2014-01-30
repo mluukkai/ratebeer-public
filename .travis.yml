@@ -11,5 +11,6 @@ script:
 
 deploy:
   provider: heroku
+  app: stark-oasis-9187
   api_key: "e19026459846b805e845af949f7caed846ab68fe"
   run: "rake db:migrate"
